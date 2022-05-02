@@ -18,3 +18,5 @@ The project deliverable (final report) with visualizations and recommendations c
 The original data can be accessed via a link in the project brief or via the link to the data source.
 
 Source of the data: &quot;The Instacart Online Grocery Shopping Dataset 2017&quot;, accessed from: https://www.instacart.com/datasets/grocery-shopping-2017 on 10-26-2021.
+
+Should you have problems to open a ipynb file in GitHub or to have outputs correctly displayed, please click on the file and copy the URL into [nbviewer](https://nbviewer.org/) to successfully render it!
