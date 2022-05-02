@@ -3,13 +3,13 @@ An analysis of orders, prizes and customer segments of an online grocery store w
 
 This is a student project I did in my data analytics bootcamp. Using Python and relevant libraries (pandas, matplotlib, scipy, and seaborn) I
 
-- did data consistency checks
-- merged and exported dataframes
-- derived new variables using if-statements, user-defined functions, loc()-functions and for-loops
-- created flags
-- created summary columns (descriptive statistics) using groupby()
-- analyzed order behavior of different customer groups
-- plotted charts (histograms, bar-charts, scatterplots, line-charts)
+- did data consistency checks,
+- merged and exported dataframes,
+- derived new variables using if-statements, user-defined functions, loc()-functions and for-loops,
+- created flags,
+- created summary columns (descriptive statistics) using groupby(),
+- analyzed order behavior of different customer groups,
+- and plotted charts (histograms, bar-charts, scatterplots, line-charts).
 
 The project brief can be found elsewhere in this repository.
 
